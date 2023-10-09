@@ -1,5 +1,5 @@
 Write-Host "Attention: DO NOT EXIT, File Integrity Check Running"
-Write-Host "DarthScripting, 2023 ChecksumVerfication Script"
+Write-Host "QuantumBytePanda, 2023 ChecksumVerfication Script"
 Write-Host "Version: 1.1"
 Write-Host ""
 Write-Host "CheckSum Verfication in progress:"
