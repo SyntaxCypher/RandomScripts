@@ -1,5 +1,5 @@
 #!/bin/bash
-#DarthScripting
+#QuantumBytePanda
 #01132023
 
 while true; do
