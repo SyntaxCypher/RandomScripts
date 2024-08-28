@@ -6,7 +6,7 @@ import sys
 import select
 
 print("Attention: DO NOT EXIT, File Integrity Check Running")
-print("QuantumBytePanda, 2023 Checksum Verification Script")
+print("Seth Bates, 2023 Checksum Verification Script")
 print("Version: 1.1")
 print("")
 print("Checksum Verification in progress:")
