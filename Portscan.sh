@@ -1,5 +1,4 @@
 #!/bin/bash
-#QuantumBytePanda
 #01162023
 
 echo "Enter the IP address you want to scan: "
